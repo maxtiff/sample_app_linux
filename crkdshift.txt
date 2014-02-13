@@ -30,6 +30,7 @@ Phase One: Launch.
 
 	Contact Page - mobile and desktop compatible.
 		Features - Form with subject choices (Letters, Technical, General Queries)
+		Connect Dreamhost domain email to GMail
 
 	Masthead Page - mobile and desktop compatible.
 		Features: Biographical information.
@@ -59,6 +60,7 @@ Phase Three: Production and Enhancement.
 	Content pops out over page instead of on new page.
 	Artwork for covers - Preferrably simple and clean.
 	Peruse -- like 'Book, Book, Goose' but strictly with journal content and added features like genre, format and rating filters.
+	Search across all and within discrete issues
 '''
 
 '''
@@ -77,6 +79,8 @@ General Bootstrap Templates --
 	'http://getbootstrap.com/getting-started/#examples'
 General Use HTML -- 
 	'https://dash.generalassemb.ly/projects'
-Fonts to use --
+Fonts to use -- Try to get something similar to Gotham (Montserrat) and Mercury (Fjord One) in addition to Goblin (for the logo)
 	'https://www.google.com/fonts#UsePlace:use/Collection:Megrim|Goblin+One|Sigmar+One|Sansita+One|Alegreya+Sans+SC|Ledger|Istok+Web|Ovo'
+Connecting Dreamhost email to GMail --
+	'http://wiki.dreamhost.com/Google_Apps'
 
