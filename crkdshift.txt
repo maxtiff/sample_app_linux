@@ -1,0 +1,82 @@
+'''
+# Crooked/Shift
+'''
+
+'''
+Crooked/Shift ('journal' from here on) is an online literary journal focused on short stories, flash fiction, and essays. 
+Featured genres include horror, pulp, existential, realism, kafka; really, anything could be printed.
+We want to give unpublished and seasoned writers alike an opportunity to compose relaxed, and unpretentious manuscripts. Writers who are writing for themselves. Things that get lost in the shuffle. Tschotske.
+
+NO: Novellas or novel excerpts.
+MAYBE: Good prose poetry and poems (the latter very infrequently, so we can stay focused).
+
+Masthead:
+Matt Rotman, Editor-in-Chief, Founder -- 'Bio goes here'
+Brandon Hensely, Editor, Communicator -- 'Bio goes here'
+Travis May, Web Design, Part-time Editor -- 'Bio goes here'
+
+Social Networks:
+Twitter - @CrkdShft
+
+Phase One: Launch.
+
+	Every page will have a Header, and a Footer with links to 'About', 'Colophon', 'Masthead', 'Contact', 'Help'.
+
+	Cover page - mobile and desktop compatible.
+		Features: Introductory text that outlines purpose of journal, publication schedule and submission method. Features major, attention-grabbing link or button to submission page.
+
+	Submission Page - mobile and desktop compatible.
+		Features: Matt's prepared text and submission guidelines. Link to Submittable.
+
+	Contact Page - mobile and desktop compatible.
+		Features - Form with subject choices (Letters, Technical, General Queries)
+
+	Masthead Page - mobile and desktop compatible.
+		Features: Biographical information.
+
+	Colophon Page - mobile and desktop compatible. 
+		Features: Details on style guide and items used to build application.
+
+	About Page - mobile and desktop compatible. 
+		Features: Explains what we are/are not looking for, Publication Schedule, FAQs. 
+
+	Help Page - mobile and desktop compatible. 
+		Features: General Site Map and explanation of application.
+
+Phase Two: First Issue.
+
+	Header on every page with dropdown menu that links to 'Submission Page', 'Current Issue', 'Archive Issues', 'Editors Desk'. Links to twitter and facebook, as well as Vol. and Issue number (which links to current issue page) on right side.
+	Substantial Footer on every page with links to 'About', 'Colophon', 'Masthead', 'Contact', 'Help'.
+	Front Page: Carousel with current issue, news, featured stories, contests, updates, etc. (This item will change frequently)
+	Current Issue: Index of links to published manuscripts, letters to the editor.
+	Archive Issues: Index of past issues. Past issue pages will have their Vol. and Issue number in the header.
+
+Phase Three: Production and Enhancement.
+	Build 'Editor's Desk' Blog
+	Kindle Publishing, and other possible revenue streams.
+	Add user accounts
+	Allow users to vote and save favorite pieces
+	Content pops out over page instead of on new page.
+	Artwork for covers - Preferrably simple and clean.
+	Peruse -- like 'Book, Book, Goose' but strictly with journal content and added features like genre, format and rating filters.
+'''
+
+'''
+Links
+'''
+Pointing a Heroku app to Dreamhost Domain -- 
+	'http://robandlauren.com/2013/02/21/pointing-a-dreamhost-domain-to-heroku/'
+	'https://devcenter.heroku.com/articles/custom-domains'
+Building the Rails App --
+	'http://ruby.railstutorial.org/chapters/static-pages#top'
+Template for Phase One Cover --
+	'http://getbootstrap.com/examples/cover/'
+Template for Phase Three Blog --
+	'http://getbootstrap.com/examples/blog/'
+General Bootstrap Templates --
+	'http://getbootstrap.com/getting-started/#examples'
+General Use HTML -- 
+	'https://dash.generalassemb.ly/projects'
+Fonts to use --
+	'https://www.google.com/fonts#UsePlace:use/Collection:Megrim|Goblin+One|Sigmar+One|Sansita+One|Alegreya+Sans+SC|Ledger|Istok+Web|Ovo'
+
