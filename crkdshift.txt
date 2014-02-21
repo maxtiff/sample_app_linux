@@ -71,6 +71,12 @@ Pointing a Heroku app to Dreamhost Domain --
 	'https://devcenter.heroku.com/articles/custom-domains'
 Building the Rails App --
 	'http://ruby.railstutorial.org/chapters/static-pages#top'
+Deploying app to Dreamhost with capistrano --
+	'http://www.leemunroe.com/deploy-rails-with-capistrano/'
+Deploying app with Git version control via capistrano --
+	'http://robmclarty.com/blog/how-to-deploy-a-rails-4-app-with-git-and-capistrano'
+Getting Started with Ruby on Rails at Dreamhost --
+	'http://wiki.dreamhost.com/Getting_Started_with_Ruby_on_Rails'
 Template for Phase One Cover --
 	'http://getbootstrap.com/examples/cover/'
 Template for Phase Three Blog --
